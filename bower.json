@@ -20,6 +20,6 @@
   "license": "MIT",
   "ignore": [
     "bower_components",
-    "bower.json",
+    "bower.json"
   ]
 }
