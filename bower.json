@@ -1,0 +1,25 @@
+{
+  "name": "ember-audio",
+  "version": "1.0.1",
+  "description": "Managed audio5js instance for Ember.",
+  "main": [ "main.js" ],
+  "dependencies": {
+    "audio5js": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thoughtindustries/ember-audio.git"
+  },
+  "keywords": [
+    "audio",
+    "audio5js",
+    "ember",
+    "emberjs"
+  ],
+  "author": "Chris McC",
+  "license": "MIT",
+  "ignore": [
+    "bower_components",
+    "bower.json",
+  ]
+}
