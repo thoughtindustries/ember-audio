@@ -1,6 +1,6 @@
 {
   "name": "ember-audio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Managed audio5js instance for Ember.",
   "main": [ "main.js" ],
   "dependencies": {
