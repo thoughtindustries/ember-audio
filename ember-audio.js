@@ -63,6 +63,7 @@
   EmberAudio.audiojsInstance = new Audio5js({
     swf_path: window.audio5jsSwfPath || '/audio5js.swf',
     throw_errors: true,
+    format_time: false,
     ready: function() {
       EmberAudio.instance.set('ready', true);
     }
